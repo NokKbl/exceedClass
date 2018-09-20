@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+
+.bg{
+    background: linear-gradient(#a18cd1, #fbc2eb);
+}
+
+.padding{
+    padding: 10px;
+}
+
+#show-box{
+    border-style: dotted;
+    border-width: 3px;
+    border-color: tomato;
+    padding: 20px;
+    width: 550px;
+    height: 500px;
+    overflow: scroll;
+    word-wrap: break-word;
+}
